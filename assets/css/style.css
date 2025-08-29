@@ -70,8 +70,8 @@ body {
 }
 
 .ProfileImg {
-    width: -webkit-fill-available;
-	height: -webkit-fill-available;
+    width: 120px;
+	height: 120px;
     border-radius: 100%;
     border: 2px solid #222325;
 }
