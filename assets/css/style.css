@@ -96,7 +96,7 @@ body {
     border: 2px solid #4d4d4d;
     background: #1b1d20;
     justify-content: space-between;
-    padding: 10px 0;
+    padding: 5% 0;
 }
 
 .ProfileNameTxt {
@@ -132,13 +132,13 @@ body {
 
 .cmLogsBox {
     width: 100%;
-    height: 155px;
+    height: 78%;
     flex-grow: 0;
     display: flex;
     border-radius: 20px;
     border: 2px solid #4d4d4d;
     background: #1b1d20;
-    padding: 20px;
+    padding: 5%;
     flex-direction: column;
     gap: 10px;
     justify-content: space-between;
@@ -152,7 +152,7 @@ body {
 }
 
 .LogsIco {
-    width: 50px;
+    width: 30%;
 }
 
 .cmLogsToday {
