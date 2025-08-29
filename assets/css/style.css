@@ -21,7 +21,7 @@ body {
 .SomiBody {
     display: flex;
     width: 100%;
-    max-width: 300px;
+    max-width: 400px;
     min-width: 215px;
     flex-direction: column;
     align-items: center;
