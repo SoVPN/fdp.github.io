@@ -218,9 +218,9 @@ body {
     max-width: 260px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    gap: 10px;
+    gap: 10%;
     margin-bottom: 30px;
+    justify-content: center;
 }
 
 .SettingsBTN {
