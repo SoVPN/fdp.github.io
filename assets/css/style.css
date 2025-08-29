@@ -71,6 +71,7 @@ body {
 
 .ProfileImg {
     width: -webkit-fill-available;
+	height: -webkit-fill-available;
     border-radius: 100%;
     border: 2px solid #222325;
 }
