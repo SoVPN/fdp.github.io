@@ -212,7 +212,7 @@ body {
 
 .NavigationBTNS {
     width: 100%;
-    max-width: 190px;
+    max-width: 260px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -221,24 +221,24 @@ body {
 }
 
 .SettingsBTN {
-    width: 45px;
-    height: 45px;
+    width: 55px;
+    height: 55px;
     border-radius: 100px;
     box-shadow: -3px -3px 10px 0px #6570798a, 3px 3px 5px 0px #0000009e;
     background: #31a8ff;
 }
 
 .PowerBTN {
-    width: 75px;
-    height: 75px;
+    width: 95px;
+    height: 95px;
     border-radius: 100px;
     box-shadow: -3px -3px 10px 0px #6570798a, 3px 3px 5px 0px #0000009e;
     background: #31a8ff;
 }
 
 .InfoBTN {
-    width: 45px;
-    height: 45px;
+    width: 55px;
+    height: 55px;
     border-radius: 100px;
     box-shadow: -3px -3px 10px 0px #6570798a, 3px 3px 5px 0px #0000009e;
     background: #31a8ff;
