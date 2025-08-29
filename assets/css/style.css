@@ -12,6 +12,7 @@ body {
     justify-content: space-between;
     align-items: center; 
     padding: 0 10px;
+	padding-top: env(safe-area-inset-top);
 }
 
 .SomiBody {
